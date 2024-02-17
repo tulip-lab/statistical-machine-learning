@@ -7,16 +7,16 @@ In this module, a number of foundational concepts and methods related with `Stat
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-### Probability and Statistics
+### Probability and Statistics :u7981:
 
-- [Lecture A: Probability Theory and Inequalities](https://github.com/tulip-lab/handouts/blob/main/Prob/FLIP09.pdf)
-- [Lecture B: Statistical Inference](https://github.com/tulip-lab/handouts/blob/main/Prob/FLIP10.pdf)
+- [Lecture A: Probability Theory and Inequalities](https://github.com/tulip-lab/handouts/blob/main/Prob/FLIP09.pdf) :secret:
+- [Lecture B: Statistical Inference](https://github.com/tulip-lab/handouts/blob/main/Prob/FLIP10.pdf) :secret:
 
-### Linear Algebra :accept:
+### Linear Algebra :u7981:
 
-- [Lecture C: Linear Model and Matrix](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP01.pdf)
-- [Lecture D: Matrix Factorization (1)](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP02.pdf)
-- [Lecture E: Matrix Factorization (2)](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP03.pdf)
-
+- [Lecture C: Linear Model and Matrix](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP01.pdf) :secret:
+- [Lecture D: Matrix Factorization (1)](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP02.pdf) :secret:
+- [Lecture E: Matrix Factorization (2)](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP03.pdf) :secret:
+ 
 
 Not all above topics will be gone through in the lecture classes, and the unit chair will decide which one(s) to cover, based on the cohort's background and interests. 

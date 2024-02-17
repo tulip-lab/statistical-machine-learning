@@ -12,5 +12,5 @@ The concept of a surrogate function is often used in convex learning problems. A
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [Lecture: Convex Optimisation](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP16.pdf) 
+- [Lecture: Convex Optimisation and Learning](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP16.pdf) 
 

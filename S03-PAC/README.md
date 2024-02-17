@@ -1,7 +1,7 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Parameter--Estimation-orange)](README.md)
+[![GitHub watchers](https://img.shields.io/badge/Module-PAC--Learning-orange)](README.md)
 
-# Probably Approximately Correct
+# *Probably Approximately Correct* Learning
 
 *Probably Approximately Correct* (PAC) learning is a foundational concept in the field of machine learning, offering a framework for understanding how learning algorithms can generalize from a finite set of training data to unseen instances. PAC learning theory addresses the feasibility of learning a function from examples, quantifying the number of training samples needed to ensure that the learned function will perform well on new, unseen examples with high probability. It provides a measure of how 'probably' (with high probability) a learning algorithm can find a hypothesis that is 'approximately correct' (with low error) on the training data.
 

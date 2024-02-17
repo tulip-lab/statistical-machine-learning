@@ -7,7 +7,7 @@
 
 `Statistical Machine Learning` has shifted the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, project development, in-depth student discussions and seminars on advanced topics. 
 
-According to the plan, this unit needs a total of **40** class hours, including **30** hours teaching, and **10** hours student presentation/discussion. The unit content is structured around the following key aspects:
+According to the plan, this unit needs a total of **48** class hours, including **32** hours teaching, and **16** hours student presentation/discussion. The unit content is structured around the following key aspects:
 
 - **Building a strong foundation**: The unit focuses on providing fundamental knowledge of pattern recognition, including statistical learning framework, PAC-learning, sample complexity, fundamental theorem of learning, VC-dimension etc. By gaining a thorough understanding of these fundamental concepts and principles, students will be equipped to undertake the latest development in machine learning.
 
@@ -28,11 +28,18 @@ Just because we give you a lot of the content in advance, it doesn't mean that w
 
 To facilitate the study, we have organised the contents into a structure where each session corresponding to one set of classes. In each session, you are provided with the lecture slides handouts, notes as well as some practical activities.
 
-Within this unit, you'll find [core sessions](#core-sessions) and [advanced sessions](#advanced-sessions). We'll explain each of these, and how they relate to your unit assessment.
+Within this unit, you'll find [preliminary sessions](#preliminary-sessions), [core sessions](#core-sessions) and [advanced sessions](#advanced-sessions). We'll explain each of these, and how they relate to your unit assessment.
 
 We would like you to go through the sessions at the time of your ease, and then work on the `assessment` tasks. The first thing you'll notice when you begin working through the sessions is that each has a consistent format, especially featuring:
 
 - A `session` `README.md` page: here you'll find the overview for the session, and most download materials are available through this page. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the session. In order to successfully complete each session, you will need to ensure that you have achieved each of these objectives.
+
+
+#### :dolphin: Preliminary Sessions
+
+We expect math background in `Linear Algebra`, `Probability and Statistics`, and `Optimization`. 
+
+For related hands-on practise, you should be reasonably confident about your `Python` programming skills. In case that you have no `Python` experience, `SIT742` - :book: [Python Foundations](https://github.com/tulip-lab/sit742) will prepare you in this aspect and enable you to continue into the [core sessions](#core-sessions). 
 
 #### :koala: Core Sessions
 

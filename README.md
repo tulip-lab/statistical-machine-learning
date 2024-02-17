@@ -19,12 +19,12 @@
 
 # Statistical Machine Learning
 
-- Also know as *Theoretical Machine Learning*, this *course* (*unit*) was originally designed for various **elite class** Bachelor students and Research stduents in some top Asia Pacific universities, including [Manipal Institute of Technology](https://www.manipal.edu), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
+- Also known as *Theoretical Machine Learning*, this *course* (*unit*) was originally designed for various **elite class** Bachelor students and Research stduents in some top Asia Pacific universities, including [Manipal Institute of Technology](https://www.manipal.edu), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
 - Materials in this course include resources collected from various open-source online repositories.
 - You are free to use, change and distribute this package.
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/pattern-classification](https://github.com/tulip-lab/statistical-machine-learning/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/pulls) 
-- Preliminary unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification) 
+- Preliminary unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
 Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**

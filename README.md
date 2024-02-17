@@ -56,23 +56,24 @@ The sister repository of this unit can be found at: [![GitHub watchers](https://
 
 ### :spiral_calendar: Session Plan
 
-This unit needs a total of **40** class hours, including **30** hours teaching, and **10** hours student presentation/discussion. The unit plan is as below:
+This unit needs a total of **48** class hours, including **36** hours teaching, and **12** hours student presentation/discussion. The unit plan is as below:
 
 
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Activity |  
 | :----: |  :---: | ------|-------| ----- |  
 | :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
-| :one: | Core | :book: [Statistical Learning Framework](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :two: | Core | :book: [PAC Learning](S02-DecisionTheory/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :three: | Core | :book: [VC Dimension](S03-ParameterEstimation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
-| :four: | Core | :book: [Fundamental Theorem of PAC Learning](S04-ParametricModels/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :five: | Core | :book: [Non-Uniform Learning](S05-NonParametricMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :six: | Core | :book: [Model Validation and Selection](S06-StochasticMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
+| :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
+| :two: | Core | :book: [Statistical Learning Framework](S02-Framework/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
+| :three: | Core | :book: [PAC Learning](S03-PAC/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
+| :four: | Core | :book: [VC Dimension](S03-ParameterEstimation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
+| :five: | Core | :book: [Fundamental Theorem of PAC Learning](S04-ParametricModels/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
+| :six: | Core | :book: [Non-Uniform Learning](S05-NonParametricMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
+| :seven: | Core | :book: [Model Validation and Selection](S06-StochasticMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
 | :a: | Student Work | :book: [Selected Topics in SML](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
-| :seven: | Core | :book: [Convex Optimization and Learning](S07-DiscriminantFunctions/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :eight: | Core | :book: [Regularized Loss Minimization](S08-ModelEvaluation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
-| :nine: | Advanced | :book: [Data Privacy](S09-DeepLearning/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
+| :eight: | Core | :book: [Convex Optimization and Learning](S07-DiscriminantFunctions/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
+| :nine: | Core | :book: [Regularized Loss Minimization](S08-ModelEvaluation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
+| :keycap_ten: | Advanced | :book: [Data Privacy](S09-DeepLearning/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
 | :b: | Student Work | :book: [Selected Topics in SML](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25)  |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
 | :trophy: | Advanced | :book: [Invited Talk and Discussions] | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  [![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-C)  | 
 

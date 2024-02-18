@@ -4,13 +4,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/pulls) 
 
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/flip01)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/flip01/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/pulls) 
-
-
 [![GitHub watchers](https://img.shields.io/github/watchers/tulip-lab/SML.svg?style=social&label=Watch)](https://GitHub.com/tulip-lab/statistical-machine-learning/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/tulip-lab/SML.svg?style=social&label=Fork)](https://GitHub.com/tulip-lab/statistical-machine-learning/network/)
 [![GitHub stars](https://img.shields.io/github/stars/tulip-lab/SML.svg?style=social&label=Star)](https://GitHub.com/tulip-lab/statistical-machine-learning/stargazers/)
@@ -112,9 +105,8 @@ This course uses several key references or textbooks, together with relevant pub
 
 Thanks goes to these wonderful people :tulip:  
 
-
-<a href="https://github.com/tulip-lab/FLIP01/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tulip-lab/FLIP01" />
+<a href="https://github.com/tulip-lab/statistical-machine-learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tulip-lab/statistical-machine-learning" />
 </a>
 
 

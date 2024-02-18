@@ -199,7 +199,7 @@ As mentioned above, we can provide you with a greater level of support, particul
 Across the semester (the period of this unit delivery), we will have several sessions for student presentation or other feedback.  
 ### Activity 0
 
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)
 > :o2: Access this year's assessment tasks, make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
 
 

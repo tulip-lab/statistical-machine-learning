@@ -9,7 +9,7 @@ Let's explore the world of `Statistical Machine Learning` together!
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [Lecture A: Introduction and Overview](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP20A.pdf)
+- [Lecture: Introduction and Overview](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP20A.pdf)
 
 Please click on the links above to download the corresponding lecture slides.
 
@@ -20,7 +20,7 @@ Please click on the links above to download the corresponding lecture slides.
 | :page_with_curl: [Welcome Message from Unit Chair](S00A-Welcome.md) |
 | :page_with_curl: [Unit Team](S00B-Team.md)
 | :page_with_curl: [Unit Logistics](S00C-Logistics.md)
-| :page_with_curl: [Unit Assessment](S00D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/SML--Activity-yellow)](S00D-Assessment.md#Activity) | 
+| :page_with_curl: [Unit Assessment](S00D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/SML-Activity-yellow)](S00D-Assessment.md#Activity) | 
 
 
 ## :ski: Getting Started

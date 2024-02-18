@@ -12,7 +12,7 @@ Another cornerstone of our course will be the exploration of *Vapnik-Chervonenki
 
 We will discuss the details of the modalities of this unit very soon, but keep in mind that the unit is designed around [`Sessions`](../README.md#Sessions). We would like you to go through the sessions following the [`Recommended Session Schedule`](../README.md#session-plan) at the time of your ease.
 
-I hope you find this unit enjoyable, challenging, and rewarding. The [unit team](S00B-Team.md) is here to help you succeed, and I am looking forward to an exciting course with you all. Together, we will uncover the mysteries of statistical machine learning and equip you with the skills to apply these concepts in innovative ways.
+I hope you find this unit enjoyable, challenging, and rewarding. The [unit team](S00B-Team.md) is here to help you succeed, and I am looking forward to an exciting course with you all. Together, we will uncover the mysteries of statistical machine learning and equip you with the knowledge to understand why particular algorithms were designed in their ways.  
 
 Best wishes
 

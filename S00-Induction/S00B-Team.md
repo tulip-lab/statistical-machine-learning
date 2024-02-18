@@ -10,14 +10,14 @@ Unit team comprises:
 | Role | Name  | Contact |
 | -------------- | ------------| ----- | 
 | *Unit Chair* | [Gang Li](https://member.acm.org/~gangli) |   gangli@duck.com  |
-| *Tutor* (2024-SRM) | TBA | TBA |
+| *Coordinator* (2024-SRM) | TBA | TBA |
 
 If you are emailing to the unit team members, please ensure that the subject starts with `[SML-Year]` (replace `Year` by the year such as 2023, 2024, etc), and clearly describe the inquired session or assessment task etc.
 
 ## Social Network Platform  
 
-We encourage all the unit related discussion to be done via GitHub 
+We encourage all the unit related discussions to be done via GitHub 
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 
-- We may a dedicated channel on popular social network platform for each delivery in different universities. Please watch out for any notice from your local coordinator/tutor.
+- Depending on specific cohorts, we may have a dedicated channel on popular social network platform for different universities. Please watch out for any notice from your campus coordinator.
 

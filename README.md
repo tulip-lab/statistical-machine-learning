@@ -40,18 +40,9 @@ The primary focus is on the fundamental learning theories and frameworks of stat
 
 ## :ledger: Sessions
 
-Students will have access to a comprehensive range of subject materials, comprising slides handouts, practicals, assessment documents, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content. 
+Students will have access to a comprehensive range of subject materials, comprising slides handouts, assessment documents, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content. 
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
-
-### :writing_hand: Practicals
-
-You are recommended to use Cloud platform to run the materials, such as:
-
-- [Google Colab](http://colab.research.google.com): which will be used in the practical classes.
-
-The sister repository of this unit can be found at: [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP03-brightgreen?style=plastic)](https://github.com/tulip-lab/flip03) 
-
 
 
 ### :spiral_calendar: Session Plan
@@ -80,9 +71,9 @@ This unit needs a total of **48** class hours, including **36** hours teaching, 
 
 ### :u6e80: Assessment
 
-Every cohort might be assessed differently, depending on the specific requirements of their universities.
+Every cohort might be assessed differently, depending on the specific requirements of your universities.
 
-The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit. 
+The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those theorey and methods covered in the unit. 
 
 #### :book: Assessment Plan
 

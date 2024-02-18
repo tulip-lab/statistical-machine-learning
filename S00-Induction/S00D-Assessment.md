@@ -3,6 +3,8 @@
 
 # :sunny: Unit Assessment
 
+:point_right: Your university might have different setting for assessment. Please contact your [coordinator](S00B-Team.md#contacts).
+
 The modular structure ties in closely to the unit assessment and your [grade](#u6e80-grades):
 
 - In order to achieve a `Pass` in this unit, all [core sessions](M00C-Logistics.md#core-sessions) must be satisfactorily completed.
@@ -32,9 +34,6 @@ All groups are required to give one 25-minute presentation in this unit. The pre
 
 The group is required to prepare a presentation together with practical materials and video demonstration, for any of the following topics. Please note that most of the following listed topics are beyond the content covered in the lectures:
 
-- T00: **Variational Inference** 
-  - Variational Inference (VI) is the accurate method for statistical inference. In its mathematical form, VI is similar to EM algorithm, but they serve different purpose. A good reference can be found at:
-    - Michael I. Jordan, Zoubin Ghahramani, Tommi S. Jaakkola & Lawrence K. Saul. [An Introduction to Variational Methods for Graphical Models](https://link.springer.com/content/pdf/10.1023%2FA%3A1007665907178.pdf), Machine Learning volume 37, pages183–233 (1999) 
 
 - T01: **Markov Chain Monte Carlo** (MCMC) Method 
   - Monte Carlo methods are computational techniques that make use of random numbers. The aims of Monte Carlo methods are to generate samples from a given probability distribution, or to estimate the expectations of functions under this distribution. MCMC is the Monte Carlo methods based on Markov Chain, and currently the state-of-the-art methods is the NUTS method:
@@ -48,14 +47,7 @@ The group is required to prepare a presentation together with practical material
 - T03: **Bayesian Optimization** 
   - Bayesian optimization is a sequential design strategy for global optimization of black-box functions that does not assume any functional forms. It is usually employed to optimize expensive-to-evaluate functions, understanding this will benefit the training of large scale neural networks.
 
-
-- T04: **No Free Lunch** Theorem 
-  - It is impossible to find a classifier which is superior to all other classifiers. Under what kind of scenario, we can construct a classifier using the given data set? Refer to Chapter 9 of the textbook.
-
-- T05: **Component Analysis** 
-  - As the extension to principle analysis, there are many other component analysis methods, such as independent component analysis (ICA), Refer to Chapter 10 of the textbook.
-
-- T06: **Chinese Restaurant Problem and Indian Buffet Problem** 
+- T04: **Chinese Restaurant Problem and Indian Buffet Problem** 
   - the `Chinese Restaurant Problem` (CRP) and the `Indian Buffet Problem` (IBP) are both probabilistic models used to describe clustering or grouping phenomena. The CRP assigns customers to tables, while the IBP assigns customers to dishes. These models provide different perspectives on the process of assigning objects to clusters and have found applications in various areas, including machine learning, natural language processing, and social network analysis.
 
 ### :mailbox_with_mail: Task :one: Submission
@@ -64,14 +56,13 @@ We will schedule the [presentation session](../README.md#session-plan) close to 
 
 Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn’t receive any acknowledgement, it means that the submission was not received.
 
-- The suggested email subject should be something like: `[PR] Presentation TXX (Group XXX)`. 
+- The suggested email subject should be something like: `[SML] Presentation TXX (Group XXX)`. 
 - For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
 
 This assignment submission package should include the following components:
 
 - **Slides**: Slides A PPTX file of your presentation.
-- **Practicals**: Practical materials in the format of Jupyter Notebook, similar to the HMM notebook on GitHub repository FLIP01.
-- **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to capture your presentation together with practicals demo. This  is optional if your group has presented in class.
+- **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to capture your presentation together with practicals demo. This is optional if your group has presented in class.
 - **Readings**: A collection of no more than 5 readings relevant for this topic.
 
 
@@ -99,7 +90,7 @@ Marks will also be allocated for quality audience questions.
 
 ## Task :two: - Project (25% + 50%)
 
-The purpose of this task is to help solve a real-world *pattern recognition* or general AI project using (but not limited to) the methods introduced in this unit. This assignment is designed to:
+The purpose of this task is to help solve a real-world project using (but not limited to) the methods introduced in this unit. This assignment is designed to:
 - help you gain hands-on experience in solving real projects;
 - help you get experience in  academic writing.
 
@@ -129,7 +120,7 @@ Students are required to submit the Presentation files together with their group
 
 If you didn't receive any acknowledgement, it means that the submission was not received.
 
-- The suggested email subject should be something like: `[PR] Project Work (Group XXX)`. 
+- The suggested email subject should be something like: `[SML] Project Work (Group XXX)`. 
 - For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
 
 This task submission package should include the following components:
@@ -214,17 +205,17 @@ Across the semester (the period of this unit delivery), we will have several ses
 
 ### Activity A
 
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)
 > :a: This is an optional activity scheduled in the middle of the delivery period. Students can either give some short presentation on their planned [Task :one:](#task-one---advanced-topic-presentation-25), or [Task :two:](#task-two---project-25--50).  
 
 
 ### Activity B
 
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)
 > :b: :star: This is compulsory, and project teams/groups are required to give in-class presentation as part of [Task :one:](#task-one---advanced-topic-presentation-25) assessment.  
 ### Activity C
 
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)
 > :u6e80: This is another student activity, and project teams/groups are expected to give a presentation with their preliminary results on their [Task :two:](#task-two---project-25--50).  
 > In this session, the unit chair will provide some feedback so that you can further improve the work before the [Assessment Due Dates](#spiral_calendar-assessment-due-dates).
 >

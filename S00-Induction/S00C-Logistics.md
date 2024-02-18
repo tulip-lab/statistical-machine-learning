@@ -5,28 +5,25 @@
 
 ## :male_detective: Teaching Method
 
-`Statistical Machine Learning` has shifted the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, project development, in-depth student discussions and seminars on advanced topics. 
+`Statistical Machine Learning` has shifted slightly from the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, in-depth student discussions and seminars on advanced topics. 
 
 According to the plan, this unit needs a total of **48** class hours, including **32** hours teaching, and **16** hours student presentation/discussion. The unit content is structured around the following key aspects:
 
-- **Building a strong foundation**: The unit focuses on providing fundamental knowledge of pattern recognition, including statistical learning framework, PAC-learning, sample complexity, fundamental theorem of learning, VC-dimension etc. By gaining a thorough understanding of these fundamental concepts and principles, students will be equipped to undertake the latest development in machine learning.
-
+- **Building a strong foundation**: The unit focuses on providing fundamental knowledge of machine learning, including statistical learning framework, PAC-learning, sample complexity, fundamental theorem of learning, VC-dimension etc. By gaining a thorough understanding of these fundamental concepts and principles, students will be equipped to undertake the latest development in machine learning.
 
 - **Instilling values and cultivating a scientific mindset**: The unit aims to instil in students the spirit of a scientist. Theoretical courses embed this scientific spirit, while practical courses emphasise its application. By fostering qualities such as the pursuit of truth, kindness, humility, critical thinking, innovation and cooperation, the unit contributes to the development of students' scientific character. It encourages questioning, analytical thinking, hypothesising, testing, experimenting and perseverance.
-
-- **Exploring scientific frontiers**: The unit encourages the integration of knowledge with the latest advances in the field.  We will try to link theoretical knowledge to practical problems and national development strategies, thus fostering a sense of responsibility among students.
 
 ---
 
 ### :newspaper_roll: Unit Materials
 
-In this unit, all lecture slides handouts will be provided prior to the class, so that students can prepare in advance and have some question prepared for the lecture sessions. Moreover, the practicals are all available publicly, and students are expected to work on those practicals themselves (especially for deliveries which have no practical allocation).
+In this unit, all lecture slides handouts will be provided prior to the class, so that students can prepare in advance and have some question prepared for the lecture sessions. 
 
-Just because we give you a lot of the content in advance, it doesn't mean that we expect you to teach yourself. You do the **learning** – we can't do that part instead of you – but you can still leave the **teaching** to us: you will have ample opportunities to ask questions in the class: **interactive activities** will be done in the weekly lectures and/or practical classes (if with time allocation). For those who can't make it to the live sessions or have urgent questions that can't wait for the next available class, through the discussion forums at GitHub [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
+Just because we give you a lot of the content in advance, it doesn't mean that we expect you to teach yourself. You do the **learning** - we can't do that part instead of you - but you can still leave the **teaching** to us: you will have ample opportunities to ask questions in the class: **interactive activities** will be done in the lecture classes. For those who can't make it to the live sessions or have urgent questions that can't wait for the next available class, through the discussion forums at GitHub [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 
 #### :microscope: Sessions
 
-To facilitate the study, we have organised the contents into a structure where each session corresponding to one set of classes. In each session, you are provided with the lecture slides handouts, notes as well as some practical activities.
+To facilitate the study, we have organised the contents into a structure where each session corresponding to one set of classes. In each session, you are provided with the lecture slides handouts.
 
 Within this unit, you'll find [preliminary sessions](#preliminary-sessions), [core sessions](#core-sessions) and [advanced sessions](#advanced-sessions). We'll explain each of these, and how they relate to your unit assessment.
 
@@ -39,21 +36,18 @@ We would like you to go through the sessions at the time of your ease, and then 
 
 We expect math background in `Linear Algebra`, `Probability and Statistics`, and `Optimization`. 
 
-For related hands-on practise, you should be reasonably confident about your `Python` programming skills. In case that you have no `Python` experience, `SIT742` - :book: [Python Foundations](https://github.com/tulip-lab/sit742) will prepare you in this aspect and enable you to continue into the [core sessions](#core-sessions). 
-
 #### :koala: Core Sessions
 
-At the heart of the unit are **eight** core sessions. These core sessions address the statistical machine learning theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
+At the heart of the unit are **9** core sessions. These core sessions address the statistical machine learning theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
 
 #### :eagle: Advanced Sessions
 
-In additional to the [core sessions](#core-sessions), there are a series of advanced topics. These topics are **optional** and they are either build on the information in the [core sessions](#core-sessions) by exploring concepts in greater depth, or introduce new, more specialised topics.
+In additional to [core sessions](#core-sessions), there are a series of advanced topics. These topics are **optional**, and they either build on the information in the [core sessions](#core-sessions) by exploring concepts in greater depth, or introduce new, more specialised topics.
 
 They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your course, you may like to choose those advanced topics which are most relevant.
 
 
 ## :dart: Unit Learning Outcomes 
-
 
 We aim to generate enthusiasm for theoretical machine learning and improve teaching effectiveness through lecturer experience sharing, session-based discussion and real-world project-based assessment.
 
@@ -63,11 +57,10 @@ Maintain in-depth knowledge of advances in machine learning, and use this knowle
 
 ### **ULO2** 
 
-Apply machine learning theory in a real-world project, formulate the problem and develop the solution and the methodology for a given scenario;  
+Justify proposed solutions by evaluating and comparing results from alternative approaches to solving real-world problems and exploring data using machine learning techniques.
 
 ### **ULO3** 
 
-Justify proposed solutions by evaluating and comparing results from alternative approaches to solving real-world problems and exploring data using machine learning techniques.
-
+Apply machine learning theory in a real-world project, formulate the problem and develop the solution and the methodology for a given scenario;  
 
 

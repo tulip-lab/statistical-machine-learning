@@ -17,6 +17,7 @@
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/statistical-machine-learning](https://github.com/tulip-lab/statistical-machine-learning/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/pulls) 
 - Preliminary unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification) 
+- Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen?style=plastic)](https://github.com/tulip-lab/privacy-aware-data-science) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
 Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
@@ -98,7 +99,7 @@ It is expected that you will submit each assessment component on time. You will 
 
 This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
 
-- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf), Shai Shalev-Shwartz and Shai Ben-David​
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf), Shai Shalev-Shwartz and Shai Ben-David
 - [Research Publications](https://www.tulip.org.au/publication), various resources and readings
 
 ## :point_right: Contributors 

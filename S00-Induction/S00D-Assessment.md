@@ -7,8 +7,8 @@
 
 The modular structure ties in closely to the unit assessment and your [grade](#u6e80-grades):
 
-- In order to achieve a `Pass` in this unit, all [core sessions](M00C-Logistics.md#core-sessions) must be satisfactorily completed.
-- If you would like to achieve a higher *grade* (or *mark*) than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](M00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
+- In order to achieve a `Pass` in this unit, all [core sessions](S00C-Logistics.md#core-sessions) must be satisfactorily completed.
+- If you would like to achieve a higher *grade* (or *mark*) than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](S00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
 
 ## :secret: Assessment Specification
 
@@ -54,7 +54,7 @@ The group is required to prepare a presentation together with practical material
 
 We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
 
-Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn’t receive any acknowledgement, it means that the submission was not received.
+Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn't receive any acknowledgement, it means that the submission was not received.
 
 - The suggested email subject should be something like: `[SML] Presentation TXX (Group XXX)`. 
 - For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
@@ -138,7 +138,7 @@ The performance of your practise in this project will decide your mark for this 
 Task :two: will be evaluated according to the following expectations:
 
 - Content It is expected to see
-  - centers on issues or a problem (not just “facts” or summaries);
+  - centers on issues or a problem (not just facts or summaries);
   - analyzes and explains significance;
   - *develops* (does not merely *collect*) information; 
   - *comments* and *interprets*;
@@ -146,15 +146,15 @@ Task :two: will be evaluated according to the following expectations:
   - answers who-what-where-why-when-with what results-so what?
   - software tools if possible, or a reference to existing research source code
 resources.
-- Readers Awareness defines the area and its related issues in terms of the readers’ needs,
+- Readers Awareness defines the area and its related issues in terms of the readers' needs,
 interests, and viewpoints
 - Organization Well organized report usually have
   - organized by topics or issues rather than by sources (consider a classification/- partition pattern);
-  - begins with a “problem” and ends with methods, results or significance
+  - begins with a problem and ends with methods, results or significance
   - headings may reveal the main divisions by indicating subtopics
 - Style a good style means
   - using lots of concrete words, good action verbs;
-  - the author’s own voice dominates (not a string of quotes);
+  - the author's own voice dominates (not a string of quotes);
 
 Final marks also depend on the quality and creativity of your writing, analysis and description of the related work.
 
@@ -183,24 +183,24 @@ As mentioned above, we can provide you with a greater level of support, particul
 
 ### :koko: Have a question?
 
-- Discussion forums – within the `Discussions` area of [`CloudDeakin`](https://d2l.deakin.edu.au) `SIT742` unit site, you will see a forum for you to post questions for each module, preliminary, core and advanced. You don't have to wait to be in class, or for the next help hub session to ask your question, and you are likely to get a prompt answer by other students or the teaching staff. You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues.
+- Discussion forums - You don't have to wait to be in class to ask your question, and you are likely to get a prompt answer by other students or the teaching staff. You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues, through the discussion forums at GitHub [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 
 ### :koko: Need a study-mate, for group work, motivation or to bounce ideas?
 
 - The assessment task might be a group work. In case that a group is needed, you can either post messages in the discussion, or form a group with peers when attending the class or practicals.
+
 #### :koko: Have a more personal issue affecting your studies?
 
-- [teaching team](S00B-Team.md#unit-team-contacts) – you can reach out to the teaching team directly by email, particularly in case of more personal problems.
-- Email the unit chair.
-
+- [Teaching Team](S00B-Team.md#unit-team-contacts) - you can reach out to the teaching team directly by email, particularly in case of more personal problems.
+- Email the coordinator or unit chair.
 
 ## :confetti_ball: Activities
 
 Across the semester (the period of this unit delivery), we will have several sessions for student presentation or other feedback.  
 ### Activity 0
 
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> :o2: Access this year's assessment tasks, make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
+![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)
+> :o2: Access this year's assessment tasks, make a study plan for your study, and think about forming a team for group assessment. 
 
 
 ### Activity A

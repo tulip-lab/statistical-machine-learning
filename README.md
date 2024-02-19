@@ -4,13 +4,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/pulls) 
 
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/flip01)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/flip01/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/pulls) 
-
-
 [![GitHub watchers](https://img.shields.io/github/watchers/tulip-lab/SML.svg?style=social&label=Watch)](https://GitHub.com/tulip-lab/statistical-machine-learning/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/tulip-lab/SML.svg?style=social&label=Fork)](https://GitHub.com/tulip-lab/statistical-machine-learning/network/)
 [![GitHub stars](https://img.shields.io/github/stars/tulip-lab/SML.svg?style=social&label=Star)](https://GitHub.com/tulip-lab/statistical-machine-learning/stargazers/)
@@ -19,12 +12,12 @@
 
 # Statistical Machine Learning
 
-- Also known as *Theoretical Machine Learning*, this *course* (*unit*) was originally designed for various **elite class** Bachelor students and Research stduents in some top Asia Pacific universities, including [Manipal Institute of Technology](https://www.manipal.edu), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
-- Materials in this course include resources collected from various open-source online repositories.
-- You are free to use, change and distribute this package.
-- If you found any issue/bug for this site, please submit an issue at [tulip-lab/pattern-classification](https://github.com/tulip-lab/statistical-machine-learning/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
+- Also known as *Theoretical Machine Learning*, this *course* (*unit*) was originally designed for various **elite class** Bachelor students and Research students in some top Asia Pacific universities, including [Manipal Institute of Technology](https://www.manipal.edu), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
+- Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package.
+- If you found any issue/bug for this site, please submit an issue at [tulip-lab/statistical-machine-learning](https://github.com/tulip-lab/statistical-machine-learning/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/statistical-machine-learning)](https://github.com/tulip-lab/statistical-machine-learning/pulls) 
 - Preliminary unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification) 
+- Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen?style=plastic)](https://github.com/tulip-lab/privacy-aware-data-science) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
 Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
@@ -106,16 +99,15 @@ It is expected that you will submit each assessment component on time. You will 
 
 This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
 
-- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf), Shai Shalev-Shwartz and Shai Ben-David​
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf), Shai Shalev-Shwartz and Shai Ben-David
 - [Research Publications](https://www.tulip.org.au/publication), various resources and readings
 
 ## :point_right: Contributors 
 
 Thanks goes to these wonderful people :tulip:  
 
-
-<a href="https://github.com/tulip-lab/FLIP01/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tulip-lab/FLIP01" />
+<a href="https://github.com/tulip-lab/statistical-machine-learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tulip-lab/statistical-machine-learning" />
 </a>
 
 

@@ -9,7 +9,7 @@ Let's explore the world of `Statistical Machine Learning` together!
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [Lecture: TULIP Nexus - Path to Excellence](https://github.com/tulip-lab/handouts/blob/main/FLIP20A.pdf)
+- [Lecture: TULIP Nexus - Path to Excellence](https://github.com/tulip-lab/handouts/blob/main/nexus/FLIP20A.pdf)
 
 Please click on the links above to download the corresponding lecture slides.
 
